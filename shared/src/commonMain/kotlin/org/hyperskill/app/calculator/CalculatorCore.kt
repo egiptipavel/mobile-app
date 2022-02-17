@@ -1,5 +1,8 @@
 package org.hyperskill.app.calculator
+import com.udojava.evalex.Expression
 
 class CalculatorCore {
-    // some logic
+    fun evaluateExpression(expression: String): String {
+        return Expression(expression).eval().toEngineeringString()
+    }
 }

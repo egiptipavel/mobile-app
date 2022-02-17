@@ -2,4 +2,25 @@
 <resources>
     <string name="home_search_button_title">Search</string>
     <string name="home_user_name_hint">User name</string>
+    <string name="ac">AC</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="div">/</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="mult">*</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="minus">-</string>
+    <string name="calculator">Calculator</string>
+    <string name="zero">0</string>
+    <string name="del">Del</string>
+    <string name="equal">=</string>
+    <string name="dot">.</string>
+    <string name="plus">+</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
 </resources>

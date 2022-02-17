@@ -14,6 +14,8 @@ dependencies {
 
     implementation(libs.bundles.ktor.common)
 
+    implementation("com.udojava:EvalEx:2.7")
+
     testImplementation(libs.bundles.android.test)
 }
 

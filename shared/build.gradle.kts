@@ -24,6 +24,8 @@ kotlin {
             dependencies {
                 implementation(libs.kotlin.coroutines.core)
 
+                implementation("com.udojava:EvalEx:2.7")
+
                 //network
                 implementation(libs.bundles.ktor.common)
 
